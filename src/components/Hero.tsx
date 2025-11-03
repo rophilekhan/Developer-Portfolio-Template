@@ -38,7 +38,7 @@ export const Hero = () => {
       <div className="relative z-20 max-w-6xl mx-auto px-6 text-center">
         <div className="animate-fade-up">
           <div className="inline-block mb-4 px-4 py-2 rounded-full border border-primary/30 bg-card/50 backdrop-blur-sm">
-            <span className="text-sm font-medium text-primary">AI-Powered Portfolio</span>
+            <span className="text-sm font-medium text-primary">Codesphinx Portfolio</span>
           </div>
           
           <h1 className="text-6xl md:text-8xl font-display font-bold mb-6 bg-gradient-to-r from-foreground via-primary to-foreground bg-clip-text text-transparent leading-tight">

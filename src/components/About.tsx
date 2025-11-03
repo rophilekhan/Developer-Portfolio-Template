@@ -35,7 +35,7 @@ export const About = () => {
             <div className="space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
                 I'm a creative professional passionate about pushing the boundaries of design and technology. 
-                With expertise in AI-powered solutions and modern web development, I bring ideas to life with 
+                With expertise in Codesphinx solutions and modern web development, I bring ideas to life with 
                 precision and innovation.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">

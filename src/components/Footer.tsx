@@ -7,10 +7,10 @@ export const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <div className="text-2xl font-display font-bold mb-2">
-              AI <span className="text-primary">Portfolio</span>
+              Developer <span className="text-primary">Portfolio Template by Codesphinx</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2025 All rights reserved
+              © 2025 All rights reserved Codesphinx
             </p>
           </div>
 
